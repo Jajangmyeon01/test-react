@@ -1,0 +1,18 @@
+*{
+    background-color: black;
+    color: white;
+}
+.links{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.links ul li {
+    text-decoration: none;
+    list-style: none;
+    float: left;
+    margin-left: 20px;
+    font-size: 22px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
